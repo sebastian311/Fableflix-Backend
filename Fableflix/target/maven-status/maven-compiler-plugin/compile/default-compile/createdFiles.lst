@@ -1,0 +1,7 @@
+com\backend\fableflix\Main.class
+com\backend\fableflix\model\Genre.class
+com\backend\fableflix\model\Book.class
+com\backend\fableflix\model\User.class
+com\backend\fableflix\service\UserService.class
+com\backend\fableflix\service\UserServiceImpl.class
+com\backend\fableflix\repository\UserRepository.class
